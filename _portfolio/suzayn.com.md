@@ -1,6 +1,6 @@
 ---
 title: "suzayn.com"
-excerpt: "A website built on Google Sites to showcase the portfolio of a professional photographer<br/><img src='/images/500x300.png'>"
+excerpt: "A website built on Google Sites to showcase the portfolio of a professional photographer<br/><img src='/images/suzayn-com-500x300desktop.png'>"
 collection: portfolio
 ---
 
