@@ -9,3 +9,11 @@ redirect_from:
 ---
 
 This is my home on the web!
+
+## Posts
+{% include base_path %}
+
+{% assign sorted = site.posts | reverse %}
+{% for post in sorted %}
+  {% include archive-single.html %}
+{% endfor %}
