@@ -1,6 +1,6 @@
 ---
 title: "leivadarou.com"
-excerpt: "A website built on Google Sites to showcase the portfolio of a lawyer<br/><img src='/images/500x300.png'>"
+excerpt: "A website built on Google Sites to showcase the portfolio of a lawyer<br/><img src='/images/leivadarou-com-500x300desktop.png'>"
 collection: portfolio
 ---
 
