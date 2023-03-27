@@ -1,6 +1,6 @@
 ---
 title: "leivadaros.dev"
-excerpt: "A minimal website built with HTML, CSS and JS, hosted on GitHub Pages<br/><img src='/images/500x300.png'>"
+excerpt: "A minimal website built with HTML, CSS and JS, hosted on GitHub Pages<br/><img src='/images/leivadaros-dev-500x300desktop.png'>"
 collection: portfolio
 ---
 
