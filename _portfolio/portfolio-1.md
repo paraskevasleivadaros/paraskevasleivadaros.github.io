@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "theatrikiopa.eu"
+excerpt: "A website built on WordPress 6.1 hosted on an Ubuntu Linux Server on Digital Ocean to serve the needs of a drama club<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
