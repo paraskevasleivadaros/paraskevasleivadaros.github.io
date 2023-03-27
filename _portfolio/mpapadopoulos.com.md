@@ -1,6 +1,6 @@
 ---
 title: "mpapadopoulos.com"
-excerpt: "A website built on Google Sites to showcase the portfolio of a Logistics Manager working on Inventory Management in Supply Chain Management & Inventory Control in Warehouse Logistics<br/><img src='/images/500x300.png'>"
+excerpt: "A website built on Google Sites to showcase the portfolio of a Logistics Manager working on Inventory Management in Supply Chain Management & Inventory Control in Warehouse Logistics<br/><img src='/images/mpapadopoulos-com-500x300desktop.png'>"
 collection: portfolio
 ---
 
