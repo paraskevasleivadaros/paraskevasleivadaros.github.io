@@ -18,5 +18,5 @@ main:
   - title: "Resume"
     url: "https://leivadaros.dev/paraskevas-leivadaros-resume.pdf"
     
-  - title: #"Guide"
-    url: /markdown/
+##- title: #"Guide"
+##  url: /markdown/
