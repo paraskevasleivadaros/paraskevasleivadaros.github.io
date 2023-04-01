@@ -88,13 +88,13 @@ author:
   pubmed           : 
   googlescholar    : 
   email            : "paraskevas@leivadaros.dev"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : 
   uri              : "https://leivadaros.dev/"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "parasleivadaros"
   foursquare       :
   github           : "paraskevasleivadaros"
   google_plus      :
@@ -106,7 +106,7 @@ author:
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "parasleivadaros"
