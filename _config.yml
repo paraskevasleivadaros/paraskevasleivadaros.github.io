@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Paraskevas Leivadaros"
+title                    : "paraskevasleivadaros.github.io"
 title_separator          : "-"
 name                     : &name "Paraskevas Leivadaros"
 description              : &description "System Engineer at Intracom Telecom, BSc in Computer Science"
