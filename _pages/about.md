@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is my home on the web!
+Building a better world through open-source contributions, one pull request at a time
 
 ## Posts
 {% include base_path %}
