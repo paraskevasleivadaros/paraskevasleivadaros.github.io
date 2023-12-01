@@ -11,8 +11,8 @@ redirect_from:
 
 **System Engineer | BSc in Computer Science**  
 Location: Nea Penteli, Attiki, Greece  
-LinkedIn: [paraskevasleivadaros](https://www.linkedin.com/in/paraskevasleivadaros)  
 Web: [leivadaros.dev](https://leivadaros.dev)  
+LinkedIn: [paraskevasleivadaros](https://www.linkedin.com/in/paraskevasleivadaros)  
 Email: [paraskevasleivadaros@gmail.com](mailto:paraskevasleivadaros@gmail.com)
 
 ## Professional Experience
@@ -67,7 +67,7 @@ Nationwide University Entrance Examination Score: 16.102/20.000
 - English - Full professional proficiency (ECPE C2)
 - French - Limited working proficiency (DELF B2)
 - Greek - Native
-- Completed over 30 Computer Science related courses (details on LinkedIn)
+- Completed over 40 Computer Science related courses (details on LinkedIn)
 
 ## Conferences & Workshops
 
