@@ -13,7 +13,7 @@ redirect_from:
 Location: Nea Penteli, Attiki, Greece  
 LinkedIn: [paraskevasleivadaros](https://www.linkedin.com/in/paraskevasleivadaros)  
 Web: [leivadaros.dev](https://leivadaros.dev)  
-Email: paraskevasleivadaros@gmail.com
+Email: [paraskevasleivadaros@gmail.com](mailto:paraskevasleivadaros@gmail.com)
 
 ## Professional Experience
 
