@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,7 @@ redirect_from:
 
 **System Engineer | BSc in Computer Science**  
 Location: Nea Penteli, Attiki, Greece  
-Web: [leivadaros.dev](https://leivadaros.dev)  
-LinkedIn: [paraskevasleivadaros](https://www.linkedin.com/in/paraskevasleivadaros)  
-Email: [paraskevasleivadaros@gmail.com](mailto:paraskevasleivadaros@gmail.com)
+web: [leivadaros.dev](https://leivadaros.dev) • linkedIn: [paraskevasleivadaros](https://www.linkedin.com/in/paraskevasleivadaros) • mail: [paraskevasleivadaros@gmail.com](mailto:paraskevasleivadaros@gmail.com)
 
 ## Professional Experience
 
