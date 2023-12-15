@@ -9,7 +9,7 @@ tags:
   - compliance
   - vulnerable code
 ---
-
+![pexels-pixabay-60504](https://github.com/paraskevasleivadaros/paraskevasleivadaros.github.io/assets/16403754/28bff60a-7db8-41b2-9215-dbe9320bde2b)
 ## Risk 1: Vulnerable Code
 Not training a programming team in security awareness significantly increases the risk of producing vulnerable code, leading to data breaches, unauthorized access to sensitive information, and potential legal and financial repercussions for the organization. The lack of security training can also compromise the integrity and reputation of the company’s products and services, affecting customer trust and business continuity.
 
