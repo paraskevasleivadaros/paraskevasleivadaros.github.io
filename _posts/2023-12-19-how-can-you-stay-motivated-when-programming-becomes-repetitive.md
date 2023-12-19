@@ -6,7 +6,7 @@ tags:
   - programming
   - motivation
 ---
-
+![pexels-prateek-katyal-2740956](https://github.com/paraskevasleivadaros/paraskevasleivadaros.github.io/assets/16403754/54f30ae3-0c8c-4b99-b4c6-9ec246a3286a)
 ## Set realistic goals
 Effective time management and maintaining a work-life balance are crucial when setting realistic goals in programming. In this fast-paced field, it’s easy to lose track of time and overcommit to work, leading to burnout. Try time blocking to structure your workday efficiently, ensuring that you dedicate focused time to coding while also allowing for breaks and downtime. Additionally, set boundaries to protect your personal time; this might mean limiting work to specific hours and ensuring you disengage from work-related tasks outside of these times. Remember, quality often trumps quantity, especially in programming, where clear thinking and creativity are essential.
 
