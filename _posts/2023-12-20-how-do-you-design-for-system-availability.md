@@ -3,11 +3,11 @@ title: 'How do you design for system availability?'
 date: 2023-12-20
 permalink: /posts/2023/12/how-do-you-design-for-system-availability/
 tags:
-  - Reliability Engineering
-  - Availability Metrics
-  - IT Infrastructure
-  - Risk Mitigation
-  - System Design
+  - reliability engineering
+  - high availability
+  - disaster recovery
+  - risk mitigation
+  - system design
 ---
 ![pexels-jan-van-der-wolf-19468754](https://github.com/paraskevasleivadaros/paraskevasleivadaros.github.io/assets/16403754/539e53b6-e813-4668-bd5f-cf94fa99e30a)
 ## Availability Metrics
