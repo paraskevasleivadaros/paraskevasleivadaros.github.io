@@ -9,7 +9,7 @@ tags:
   - Risk Mitigation
   - System Design
 ---
-
+![pexels-jan-van-der-wolf-19468754](https://github.com/paraskevasleivadaros/paraskevasleivadaros.github.io/assets/16403754/539e53b6-e813-4668-bd5f-cf94fa99e30a)
 ## Availability Metrics
 Availability metrics are crucial in system design, serving as benchmarks for reliability and uptime. These metrics, often expressed as percentages, indicate the proportion of time a system remains operational under normal conditions. The gold standard is the 'five nines' - 99.999% availability, translating to just over five minutes of downtime per year. By regularly monitoring these metrics, engineers can identify trends, predict potential downtimes, and implement proactive measures to enhance system resilience.
 
