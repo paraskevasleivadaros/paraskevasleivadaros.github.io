@@ -1,5 +1,5 @@
 ---
-title: 'What are the Risks of Not Training Your Programming Team on Security Awareness?'
+title: 'What are the risks of not training your programming team on security awareness?'
 date: 2023-12-15
 permalink: /posts/2023/12/what-are-the-risks-of-not-training-your-programming-team-on-security-awareness/
 tags:
