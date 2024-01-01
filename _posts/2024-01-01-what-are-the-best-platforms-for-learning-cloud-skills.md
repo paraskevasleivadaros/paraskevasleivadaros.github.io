@@ -36,6 +36,6 @@ Platforms like Stack Overflow, Reddit's r/cloudcomputing, and LinkedIn groups pr
 
 ## Here’s What Else to Consider
 When selecting a learning platform, consider:
-- Your Learning Style: Do you prefer structured courses, interactive sessions, or self-paced learning?
-- Your Current Skill Level: Some platforms cater more to beginners, while others are better suited for advanced learners
+- Learning Style: Do you prefer structured courses, interactive sessions, or self-paced learning?
+- Current Skill Level: Some platforms cater more to beginners, while others are better suited for advanced learners
 - Certification Goals: If you’re aiming for specific certifications, choose platforms that offer courses aligned with those credentials
