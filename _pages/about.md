@@ -10,7 +10,7 @@ redirect_from:
 
 Building a better world through open-source contributions, one pull request at a time
 
-## 🛠️ Favorite Tools and Languages
+## Favorite Tools / Languages
 [![Ansible](https://skills.thijs.gg/icons?i=ansible)](https://www.ansible.com/)
 [![GCP](https://skills.thijs.gg/icons?i=gcp)](https://cloud.google.com/)
 [![Linux](https://skills.thijs.gg/icons?i=linux)](https://www.linux.org/)
