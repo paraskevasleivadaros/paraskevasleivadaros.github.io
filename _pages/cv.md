@@ -15,7 +15,8 @@ web: [leivadaros.dev](https://leivadaros.dev) • linkedIn: [paraskevasleivadaro
 
 ## Professional Experience
 ### Implementation and Support System Engineer [@Intracom Telecom](https://intracom-telecom.com)
-Nov 2021 - Present<br>
+Nov 2021 - Present
+
 I specialize in the implementation and technical support of telecommunication services for both Greek and international telecom organizations. These systems are critical for serving millions of users. My role involves developing and maintaining applications for corporate mobile telephony clients, providing me with a comprehensive understanding of the complexities and needs of large-scale telecommunication networks. 
 
 I have been involved in several ServiceWeaver™ microservices such as Bulk-SMS, Balance Inquiry, Internet Abroad, and Prepaid Orchestrator. In these projects, I am integral to every phase of their development and rollout.
@@ -31,14 +32,17 @@ Additionally, I have hands-on experience with SUSE, Oracle, Debian, MySQL, Ubunt
 
 ### System Analyst @ Hellenic Army General Staff (KEPYES)
 Dec 2020 - Aug 2021<br>
+
 I was responsible for performing troubleshooting of computer systems, hardware, and software. This involved identifying issues and providing timely solutions to ensure that systems were running optimally. I also gained expertise in resolving network problems, which included giving users clear instructions on how to perform tasks related to network maintenance and troubleshooting.
 
 ### Digital Marketing Intern [@Oh My Good Guide](https://ohmygoodguide.com)
-Feb 2020 - May 2020<br>
+Feb 2020 - May 2020
+
 I gained extensive experience in SEO techniques, social media management, and creative thinking. I was proficient in web management using WordPress and created engaging blog content. My experience with Google Analytics and Search Console honed my data analysis and problem-solving skills. Additionally, I managed client reviews and online travel agencies' systems, developing my communication and customer service abilities. Overall, I gained valuable skills in digital marketing and web management, as well as data analysis and client management that I can apply to future roles.
 
 ### System Administrator [@AUEB CSLabs](https://cslab.aueb.gr)
-Oct 2017 - Feb 2019<br>
+Oct 2017 - Feb 2019
+
 At the AUEB Computer Science Laboratories, I was responsible for both systems monitoring and direct communication with end users.
 
 The mission of the AUEB CSLab is to support the Department's educational work and in particular its specialized needs that cannot be effectively met by the Computer Center. It covers exclusively the needs of the Department of Informatics, where tutorials and course labs take place. Software infrastructure (programming environments, databases, network simulators) enables tasks and studies to be performed on different subjects depending on the needs of each course. In this context, the laboratory participates in MSDNAA (Microsoft Software Developers Network Academic Alliance), and also supports the development of applications using Open Source Software such as PHP, MySQL.
@@ -68,10 +72,10 @@ Nationwide University Entrance Examination Score: 16.102/20.000
 - Completed over 40 Computer Science related courses (details on [LinkedIn](https://www.linkedin.com/in/paraskevasleivadaros/details/certifications/))
 
 ## Conferences & Workshops
-- Google DevFest Athens 2023 Workshop: Data Science and Machine Learning for Weather and Climate (16 December 2023)
-- Google DevFest Athens 2023 (16 December 2023)
+- Google DevFest Athens 2023 (16 Dec 2023)
+  - Data Science and Machine Learning for Weather and Climate Workshop
 - Athens InfoLaw Conference: Law, Internet and Social Media (03 May 2019)
-- Athens InfoLaw Workshop: Private Data (04 May 2019)
+  - Private Data Workshop
 - TEDxAUEB: arctos (17 March 2018)
 
 ## Volunteering
