@@ -20,7 +20,7 @@ Platforms like A Cloud Guru, which I have used extensively, offer a range of cou
 - LinkedIn Learning: Great for professionals seeking to integrate cloud skills with their business and career objectives
 
 ## Interactive Labs
-Hands-on experience is crucial for mastering cloud technologies. Interactive labs provide a simulated environment where you can practice real-world scenarios. Google Cloud Skills Boost, for instance, offers Qwiklabs and hands-on labs that let you use actual Google Cloud resources. A Cloud Guru offers Hands-On Labs to supplements its courses.
+Hands-on experience is crucial for mastering cloud technologies. Interactive labs provide a simulated environment where you can practice real-world scenarios. Google Cloud Skills Boost, for instance, offers Qwiklabs and hands-on labs that let you use actual Google Cloud resources. A Cloud Guru offers Hands-on Labs to supplements its courses.
 
 ## Video Tutorials
 Video tutorials are perfect for visual learners. They offer step-by-step instructions and demonstrations. YouTube channels dedicated to cloud computing can be a valuable resource. I personally prefer A Cloud Guru since it has well structured learning paths for all levels of learners.
