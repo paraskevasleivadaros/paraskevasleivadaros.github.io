@@ -13,7 +13,7 @@ Building a better world through open-source contributions, one pull request at a
 ## Posts
 {% include base_path %}
 
-{% assign sorted = site.posts | reverse %}
+{% assign sorted = site.posts %}
 {% for post in sorted %}
   {% include archive-single.html %}
 {% endfor %}
