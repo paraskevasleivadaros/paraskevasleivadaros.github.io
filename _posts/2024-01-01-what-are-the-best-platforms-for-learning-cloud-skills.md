@@ -9,6 +9,7 @@ tags:
   - cloud skills
   - e-Learning
 ---
+![pexels-pixabay-46160](https://github.com/paraskevasleivadaros/paraskevasleivadaros.github.io/assets/16403754/ff01d08f-db89-46f3-98d3-971f6aeb4b1f)
 
 The cloud computing industry has seen remarkable growth over the past few years. With businesses increasingly migrating to cloud platforms, the demand for cloud skills is at an all-time high. Whether you're starting from scratch or looking to enhance your cloud expertise, numerous platforms can help you achieve your goals. Here's a comprehensive guide to the best platforms for learning cloud skills.
 
