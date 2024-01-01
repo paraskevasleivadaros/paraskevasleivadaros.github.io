@@ -29,7 +29,7 @@ Video tutorials are perfect for visual learners. They offer step-by-step instruc
 For those who prefer reading, books and e-books are invaluable resources. They provide in-depth knowledge and often include real-life case studies. I would recommend the Google Cloud Certified Associate Cloud Engineer Study Guide by Dan Sullivan.
 
 ## Podcasts and Webinars
-Podcasts and webinars offer insights from industry experts and keep you updated on the latest trends. They can be an excellent supplement to your learning. Check out https://cloud.google.com/podcasts
+Podcasts and webinars offer insights from industry experts and keep you updated on the latest trends. They can be an excellent supplement to your learning. Check out [https://cloud.google.com/podcasts](https://cloud.google.com/podcasts) to stay updated on the latest news on cloud computing.
 
 ## Online Communities
 Platforms like Stack Overflow, Reddit's r/cloudcomputing, and LinkedIn groups provide forums where you can ask questions, share knowledge, and network with professionals
