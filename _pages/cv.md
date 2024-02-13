@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# Implementation and Support System Engineer | BSc in Computer Science
+# Implementation and Support System Engineer | BSc in Computer Science | 1xGCP Certified
 location: Amsterdam, North Holland, Netherlands
 web: [leivadaros.dev](https://leivadaros.dev) • linkedIn: [paraskevasleivadaros](https://www.linkedin.com/in/paraskevasleivadaros) • mail: [paraskevasleivadaros@gmail.com](mailto:paraskevasleivadaros@gmail.com)
 
