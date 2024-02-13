@@ -9,8 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-# System Engineer | BSc in Computer Science
-location: Nea Penteli, Attiki, Greece  
+# ☁️ Implementation and Support System Engineer @ Intracom Telecom | BSc in Computer Science @ AUEB | 1xGCP Certified
+location: Amsterdam, North Holland, Netherlands
+
 web: [leivadaros.dev](https://leivadaros.dev) • linkedIn: [paraskevasleivadaros](https://www.linkedin.com/in/paraskevasleivadaros) • mail: [paraskevasleivadaros@gmail.com](mailto:paraskevasleivadaros@gmail.com)
 
 ## Professional Experience
