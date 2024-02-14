@@ -82,15 +82,15 @@ analytics:
 author:
   name             : "Paraskevas K. Leivadaros"
   avatar           : "profile.png"
-  bio              : "🎓 MSc Data Science @UvA | 🦈 CloudOps Engineer @DigitalOcean | ☁️ 2xAWS, 1xGCP | 🎓 BSc Computer Science @AUEB"
-  location         : "Amsterdam, Netherlands"
-  employer         : "DigitalOcean"
-  pubmed           : 
-  googlescholar    : 
-  email            : "paraskevasleivadaros@gmail.com"
-  researchgate     : 
-  uri              : "https://paraskevasleivadaros.github.io"
-  bitbucket        : "paraskevasleivadaros"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
+  employer         :
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"         # Update with the correct link to your profile
+  email            :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
