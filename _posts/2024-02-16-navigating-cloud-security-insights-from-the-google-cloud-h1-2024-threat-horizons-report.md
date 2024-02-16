@@ -1,4 +1,4 @@
-![dall-e-unveiling-the-hidden-dangers-of-cloud-security](https://github.com/paraskevasleivadaros/paraskevasleivadaros.github.io/assets/16403754/dd36b23c-cbab-4de2-aa25-1cd5d69c613e)---
+---
 title: 'Navigating Cloud Security: Insights from the Google Cloud H1 2024 Threat Horizons Report'
 date: 2024-02-16
 permalink: /posts/2024/02/navigating-cloud-security-insights-from-the-google-cloud-h1-2024-threat-horizons-report/
