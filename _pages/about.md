@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Building a better world through open-source contributions, one pull request at a time
+Building a better world 🌍 through open-source contributions 💻, one pull request at a time 🚀
 
 ## Favorite Tools / Languages
 [![Ansible](https://skills.thijs.gg/icons?i=ansible)](https://ansible.com/)
