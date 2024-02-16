@@ -62,7 +62,7 @@ Grade: 18.1/20 (Excellent)<br>
 Nationwide University Entrance Examination Score: 16.102/20.000
 
 ## Skills
-- Multi Cloud Engineer (1xGCP Certified, Microsoft Azure)
+- Multi Cloud Engineer (1xGCP Certified, Azure, AWS)
 - Extensive experience with Docker, Ansible, and Red Hat Enterprise Linux systems
 
 ## Certifications & Languages
@@ -73,6 +73,8 @@ Nationwide University Entrance Examination Score: 16.102/20.000
 - Completed over 40 Computer Science related courses (details on [LinkedIn](https://www.linkedin.com/in/paraskevasleivadaros/details/certifications/))
 
 ## Conferences & Workshops
+- AI Hackathon Greece (16-18 Feb 2024)
+  - AI-Buddy/Intracom Telecom Team
 - Google DevFest Athens 2023 (16 Dec 2023)
   - Data Science and Machine Learning for Weather and Climate Workshop
 - Athens InfoLaw Conference: Law, Internet and Social Media (03 May 2019)
