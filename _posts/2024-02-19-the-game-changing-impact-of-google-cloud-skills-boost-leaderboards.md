@@ -16,8 +16,8 @@ The advent of gamification in learning has transformed the educational landscape
 ## Understanding Google Cloud Skills Boost
 Google Cloud Skills Boost stands as a beacon for cloud learning enthusiasts, offering an expansive range of courses, labs, and quizzes tailored to elevate one's expertise in Google Cloud technologies. The platform is designed to cater to various learning objectives, from beginners seeking foundational knowledge to professionals aiming to hone their skills. Through participation in different activities, learners accumulate points, fostering a tangible sense of progress and achievement.
 
-![Google Cloud Skills Boost Promotion to Diamond League 2024-01-28](https://github.com/paraskevasleivadaros/Blog-Post-Ideas/assets/16403754/e35834e7-9c21-4cb4-beea-25ea30a93faa)
-*<small>My promotion to the Diamond League on Google Cloud Skills Boost</small>*
+![Google Cloud Skills Boost Promotion to Silver League 2024-01-09](https://github.com/paraskevasleivadaros/paraskevasleivadaros.github.io/assets/16403754/6310aeb5-df47-40c6-9304-836224b0db2b)
+*My promotion to the Silver League on Google Cloud Skills Boost*
 
 ## The Mechanics of Gamification in Learning
 Gamification taps into the human psyche by stimulating the reward centers of the brain, thus encouraging competition and instilling a profound sense of accomplishment among learners. This psychological underpinning is what makes Google Cloud Skills Boost particularly effective. As participants engage with the material, completing courses and excelling in quizzes, they earn points and advance through leagues — from Bronze to the coveted Diamond level — mirroring a real-world progression system that keeps learners motivated and engaged.
