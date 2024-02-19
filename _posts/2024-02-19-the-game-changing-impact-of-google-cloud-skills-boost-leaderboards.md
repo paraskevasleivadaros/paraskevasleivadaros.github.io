@@ -26,22 +26,22 @@ Gamification taps into the human psyche by stimulating the reward centers of the
 At the heart of the platform's gamification strategy lies the leaderboard system. Each learner is placed within a cohort of 30, fostering a healthy competitive environment that drives continuous improvement. The weekly leaderboard challenges not only encourage consistent learning but also celebrate the top performers who advance to higher leagues, thereby enhancing the learning experience through competition and recognition.
 
 ![Google Cloud Skills Boost Gold Leaderboard - 2024-01-27](https://github.com/paraskevasleivadaros/Blog-Post-Ideas/assets/16403754/1f7dead4-9708-4611-830b-29e58180cae7)
-*<small>Standing at the top of the Gold Leaderboard</small>*
+*Standing at the top of the Gold Leaderboard*
 
 ## Inclusivity and Flexibility in Learning
 Google Cloud Skills Boost is commendable for its inclusive approach to learning. The platform ensures that taking breaks does not penalize learners; instead, it offers a system where progress can be paused, preventing any loss in league standings or leaderboard positions. Moreover, the use of randomized player names safeguards privacy and promotes anonymity, making the learning experience safe and inclusive for all participants.
 
 ![Google Cloud Skills Boost Promotion to Gold League 2024-01-17](https://github.com/paraskevasleivadaros/Blog-Post-Ideas/assets/16403754/29d156ec-ba56-447b-bfb4-54fa22f4a51a)
-*<small>The moment of promotion to the Gold League</small>*
+*The moment of promotion to the Gold League*
 
 ## The Impact on Learning and Engagement
 My personal journey with Google Cloud Skills Boost led to the achievement of two certifications, underscoring the platform's efficacy in facilitating skill acquisition and professional development. The gamified approach has shown to significantly boost learning outcomes and engagement levels. The option to opt-out respects user preferences, highlighting the platform's commitment to user-centric learning. Embracing the philosophy of improving "just 1% per day" can exponentially enhance one's abilities over time, embodying the essence of continuous growth and development.
 
 ![Google Cloud Skills Boost Silver Leaderboard - 2024-01-10](https://github.com/paraskevasleivadaros/Blog-Post-Ideas/assets/16403754/f1ce7a50-e0e4-4f45-99dd-ecf3b4cf40ea)
-*<small>Leading the Silver Leaderboard</small>*
+*Leading the Silver Leaderboard*
 
 ## Conclusion:
 The gamification of learning, as exemplified by Google Cloud Skills Boost, is revolutionizing the way we approach education and professional development. By making learning an engaging, competitive, and rewarding process, these platforms are setting a new standard for educational experiences. As we look forward, the potential of such systems to adapt and thrive in various learning environments promises a future where acquiring new skills is not just beneficial but a genuinely enjoyable pursuit.
 
 ![Google Cloud Skills Boost Data Engineer Learning Path](https://github.com/paraskevasleivadaros/Blog-Post-Ideas/assets/16403754/4da6f88a-74a0-48e6-a180-4b84f1b0e5a0)
-*<small>The Data Engineer Learning Path that helped me advance</small>*
+*The Data Engineer Learning Path that helped me advance*
