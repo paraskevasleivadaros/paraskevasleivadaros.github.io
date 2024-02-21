@@ -8,6 +8,8 @@ tags:
   - future of technology 💻
 ---
 
+![top-cloud-computing-voice](https://github.com/paraskevasleivadaros/paraskevasleivadaros.github.io/assets/16403754/f5ccdeba-6be2-4491-b9cb-f718733f6112)
+
 In an unprecedented turn of events, the skies have cleared, and I just got the top cloud computing voice badge on LinkedIn! 🏅✨
 
 It seems I’ve talked about the cloud so much that even the Cloud has noticed. ☁️🗣️
