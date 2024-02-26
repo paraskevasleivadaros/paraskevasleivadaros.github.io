@@ -90,7 +90,7 @@ author:
   email            : "paraskevasleivadaros@gmail.com"
   researchgate     : 
   uri              : "https://leivadaros.dev"
-  bitbucket        :
+  bitbucket        : "paraskevasleivadaros"
   codepen          :
   dribbble         :
   flickr           :
@@ -106,7 +106,7 @@ author:
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    : "6062104"
   steam            :
   tumblr           :
   twitter          : "parasleivadaros"
@@ -116,7 +116,7 @@ author:
   youtube          : "parask6398127469065"
   wikipedia        :
   medium           : "paraskevasleivadaros"
-
+  substack         : "paraskevasleivadaros"
 
 # Reading Files
 include:
