@@ -22,14 +22,21 @@ I specialize in the implementation and technical support of telecommunication se
 
 I have been involved in several ServiceWeaver™ microservices such as Bulk-SMS, Balance Inquiry, Internet Abroad, and Prepaid Orchestrator. In these projects, I am integral to every phase of their development and rollout.
 
-My technical expertise spans numerous tools and technologies:
-- Git, GitLab CI/CD
+I have worked with numerous tools and technologies:
+- VCS: Git, GitLab CI/CD
+- Networking: TCP/IP, NAT
 - Containerization: Docker
+- Pub/Sub systems: RabbitMQ
+- Cloud Computing: OpenStack
+- Virtualization: VMWare ESXi
+- Linux: RHEL, CentOS, Ubuntu
 - Programming: Bash, Java, Python
+- Databases: MySQL, Oracle, MongoDB
 - Infrastructure Automation: Ansible
-- Operating Systems: Linux, especially Red Hat Enterprise Linux
+- Security: iptables, firewalld, SELinux, SSL/TLS
+- Monitoring & Logging: Grafana, Prometheus, ELK Stack
 
-Additionally, I have hands-on experience with SUSE, Oracle, Debian, MySQL, Ubuntu, SoapUI, JMeter, CentOS, Grafana, Postman, MongoDB, RabbitMQ, REST APIs, OpenStack, Prometheus, VMWare ESXi, Security Hardening, Network Technologies, Spring Boot Microservices
+Additionally, I have hands-on experience with SUSE, Debian, SoapUI, JMeter, REST APIs, Spring Boot Microservices
 
 ### System Analyst @ Hellenic Army General Staff (KEPYES)
 Dec 2020 - Aug 2021<br>
