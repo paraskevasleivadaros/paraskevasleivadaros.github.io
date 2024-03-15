@@ -1,7 +1,7 @@
 ---
 title: 'How can you stay motivated when programming becomes repetitive?'
 date: 2023-12-19
-permalink: /posts/2023/12/how-can-you-stay-motivated-when-programming-becomes-repetitive/
+permalink: /posts/2023/12/how-can-you-stay-motivated-when-programming-becomes-repetitive
 tags:
   - healthy coding habits
   - coding motivation
