@@ -1,7 +1,7 @@
 ---
 title: 'How do you design for system availability?'
 date: 2023-12-20
-permalink: /posts/2023/12/how-do-you-design-for-system-availability/
+permalink: /posts/2023/12/how-do-you-design-for-system-availability
 tags:
   - reliability engineering
   - high availability
