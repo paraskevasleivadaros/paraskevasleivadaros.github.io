@@ -1,7 +1,7 @@
 ---
 title: 'What are the best platforms for learning cloud skills?'
 date: 2024-01-01
-permalink: /posts/2024/01/what-are-the-best-platforms-for-learning-cloud-skills/
+permalink: /posts/2024/01/what-are-the-best-platforms-for-learning-cloud-skills
 tags:
   - cloud learning
   - online courses
