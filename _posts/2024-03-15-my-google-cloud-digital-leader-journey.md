@@ -8,6 +8,8 @@ tags:
   - future of technology 💻
 ---
 
+![CloudDigitalleader-v4](https://github.com/paraskevasleivadaros/paraskevasleivadaros.github.io/assets/16403754/0f626d78-0193-4362-823e-dd6a3d5c37db)
+
 Thrilled to share I've passed the Google Cloud Digital Leader exam again! This achievement 🏆 isn't just about mastering cloud tech but also marks a step forward in my cloud computing journey.
 
 The Google Cloud Digital Leader certification is crucial for those looking to showcase their skills in using Google Cloud to innovate and solve business challenges 🌐. It covers essential cloud concepts and Google Cloud services, emphasizing practical solutions aligned with Google Cloud best practices.
