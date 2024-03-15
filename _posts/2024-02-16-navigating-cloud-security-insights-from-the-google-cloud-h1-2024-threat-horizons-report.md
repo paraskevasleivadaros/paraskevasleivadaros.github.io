@@ -1,7 +1,7 @@
 ---
 title: 'Navigating Cloud Security: Insights from the Google Cloud H1 2024 Threat Horizons Report'
 date: 2024-02-16
-permalink: /posts/2024/02/navigating-cloud-security-insights-from-the-google-cloud-h1-2024-threat-horizons-report/
+permalink: /posts/2024/02/navigating-cloud-security-insights-from-the-google-cloud-h1-2024-threat-horizons-report
 tags:
   - google cloud platform
   - cloud security
