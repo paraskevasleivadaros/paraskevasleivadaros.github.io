@@ -1,7 +1,7 @@
 ---
 title: '🎉🌥️ Breaking News: The Clouds Have Spoken! 🌥️🎉'
 date: 2024-02-21
-permalink: /posts/2024/02/breaking-news-the-clouds-have-spoken/
+permalink: /posts/2024/02/breaking-news-the-clouds-have-spoken
 tags:
   - cloud computing ☁️
   - professional growth 📚
