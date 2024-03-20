@@ -9,10 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-# ☁️ Top Cloud Computing Voice @ LinkedIn | Implementation and Support System Engineer @ Intracom Telecom | BSc in Computer Science @ AUEB | 1xGCP Certified
-location: Amsterdam, North Holland, Netherlands
+# ☁️ Top Cloud Computing Voice [@LinkedIn](https://linkedin.com) | Implementation and Support System Engineer [@Intracom Telecom](https://intracom-telecom.com) | BSc in Computer Science [@AUEB](https://aueb.gr) | 1x[GCP](https://cloud.google.com) Certified
+Amsterdam, North Holland, Netherlands
 
-web: [leivadaros.dev](https://leivadaros.dev) • linkedIn: [paraskevasleivadaros](https://www.linkedin.com/in/paraskevasleivadaros) • mail: [paraskevasleivadaros@gmail.com](mailto:paraskevasleivadaros@gmail.com)
+[![](https://img.shields.io/badge/leivadaros.dev-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://leivadaros.dev) [![](https://img.shields.io/badge/paraskevasleivadaros-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paraskevasleivadaros) [![](https://img.shields.io/badge/paraskevasleivadaros@gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paraskevasleivadaros@gmail.com)
 
 ## Professional Experience
 ### Implementation and Support System Engineer [@Intracom Telecom](https://intracom-telecom.com)
