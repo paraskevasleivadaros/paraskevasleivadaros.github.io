@@ -77,7 +77,7 @@ Nationwide University Entrance Examination Score: 16.102/20.000
 - English - Full professional proficiency (ECPE C2)
 - French - Limited working proficiency (DELF B2)
 - Greek - Native
-- Completed over 40 Computer Science related courses (details on [LinkedIn](https://www.linkedin.com/in/paraskevasleivadaros/details/certifications))
+- Completed over 40 Computer Science related courses (details on [LinkedIn](https://linkedin.com/in/paraskevasleivadaros/details/certifications))
 
 ## Conferences & Workshops
 - [AI Hackathon Greece](https://hackathongreece.ai) (16-18 Feb 2024)
