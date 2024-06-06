@@ -9,14 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-# ☁️ Top Cloud Computing Voice [@LinkedIn](https://linkedin.com) | Implementation and Support System Engineer [@Intracom Telecom](https://intracom-telecom.com) | BSc in Computer Science [@AUEB](https://aueb.gr) | 1x[GCP](https://cloud.google.com) Certified
+# ☁️ Cloud Operations Administrator I [@DigitalOcean](https://digitalocean.com) 🐬 | BSc in Computer Science [@AUEB](https://aueb.gr) | 1x[GCP](https://cloud.google.com) Certified
 Amsterdam, North Holland, Netherlands
 
 [![](https://img.shields.io/badge/leivadaros.dev-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://leivadaros.dev) [![](https://img.shields.io/badge/paraskevasleivadaros-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paraskevasleivadaros) [![](https://img.shields.io/badge/paraskevasleivadaros@gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paraskevasleivadaros@gmail.com)
 
 ## Professional Experience
+### Cloud Operations Administrator I [@DigitalOcean](https://digitalocean.com)
+May 2024 - Present
+
+I ensure the smooth operation of our cloud infrastructure by monitoring and promptly responding to all cloud health issues that could impact customer experiences, both internal and external. Reporting to the Manager of Cloud Operations, I collaborate with teams across the organization to research and troubleshoot issues, from single droplets to cloud-wide disturbances. My day-to-day tasks include ensuring maximum uptime for DigitalOcean’s global infrastructure, automating processes, developing tools to enhance operational efficiency, and coordinating with various teams to address operational challenges and improve the platform with minimal user impact.
+
 ### Implementation and Support System Engineer [@Intracom Telecom](https://intracom-telecom.com)
-Nov 2021 - Present
+Nov 2021 - Apr 2024
 
 I specialize in the implementation and technical support of telecommunication services for both Greek and international telecom organizations. These systems are critical for serving millions of users. My role involves developing and maintaining applications for corporate mobile telephony clients, providing me with a comprehensive understanding of the complexities and needs of large-scale telecommunication networks. 
 
