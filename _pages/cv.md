@@ -99,3 +99,10 @@ Nationwide University Entrance Examination Score: 16.102/20.000
 - Tutor at AUEB Volunteers (Jun 2018 - Jun 2019)
 - Backstage Support at TEDxAUEB (Mar 2018)
 - Team's Representative & WordPress Developer at AUEB Drama Club (May 2017 - Present)
+
+## Honors & awards
+- 2nd Place at Apps4Athens Hackathon (Mar 2024)
+
+ARcheos is an innovative AR/AI application that offers users a unique journey through Athens' rich philosophical heritage. In a fiercely competitive field of 200 contestants, we secured 2nd place at the esteemed Apps4Athens hackathon, a testament to the app’s ingenuity and the team's hard work.
+
+Designed to bring history to life, ARcheos immerses users in the ancient streets of Athens, where they can engage in meaningful, AI-enhanced conversations with legendary figures such as Socrates and Aristotle. This app not only highlights Athens' historical significance but also showcases the potential of combining advanced technology with cultural education, offering a new way to experience and learn from the past.
