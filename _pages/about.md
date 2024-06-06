@@ -11,10 +11,10 @@ redirect_from:
 Building a better world 🌍 through open-source contributions 💻, one pull request at a time 🚀
 
 ## Favorite Tools / Languages
-[![Ansible](https://skills.thijs.gg/icons?i=ansible)](https://ansible.com/)
-[![GCP](https://skills.thijs.gg/icons?i=gcp)](https://cloud.google.com/)
-[![Linux](https://skills.thijs.gg/icons?i=linux)](https://linux.org/)
-[![Python](https://skills.thijs.gg/icons?i=py)](https://python.org/)
+[![Ansible](https://skillicons.dev/icons?i=ansible)](https://ansible.com/)
+[![GCP](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com/)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://linux.org/)
+[![Python](https://skillicons.dev/icons?i=py)](https://python.org/)
 
 ## Posts
 {% include base_path %}
