@@ -91,10 +91,11 @@ Nationwide University Entrance Examination Score: 16.102/20.000
   - Data Science and Machine Learning for Weather and Climate Workshop
 - Athens InfoLaw Conference: Law, Internet and Social Media (03 May 2019)
   - Private Data Workshop
-- TEDxAUEB: arctos (17 March 2018)
+- TEDxAUEB: arctos (17 Mar 2018)
 
 ## Volunteering
 - Computational Volunteer at BOINC, Folding@home, World Community Grid (Sep 2019 - Present)
 - Content Moderator at AUEB Venus Forum (Nov 2018 - Nov 2021)
 - Tutor at AUEB Volunteers (Jun 2018 - Jun 2019)
+- Backstage Support at TEDxAUEB (Mar 2018)
 - Team's Representative & WordPress Developer at AUEB Drama Club (May 2017 - Present)
