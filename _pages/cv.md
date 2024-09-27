@@ -87,14 +87,14 @@ Nationwide University Entrance Examination Score: 16.102/20.000
 ## Conferences & Workshops
 - [AI Hackathon Greece](https://hackathongreece.ai) (16-18 Feb 2024)
   - [Review Radar Data Platform](https://github.com/Review-Radar-Data-Platform)
-- Google DevFest Athens 2023 (16 Dec 2023)
+- [Google DevFest Athens 2023](https://gdg.community.dev/events/details/google-gdg-athens-presents-devfest-2023-athens) (16 Dec 2023)
   - Data Science and Machine Learning for Weather and Climate Workshop
-- Athens InfoLaw Conference: Law, Internet and Social Media (03 May 2019)
+- Athens [InfoLaw](https://infolaw.gr) Conference: Law, Internet and Social Media (03 May 2019)
   - Private Data Workshop
-- TEDxAUEB: arctos (17 Mar 2018)
+- [TEDxAUEB](https://tedxaueb.org): arctos (17 Mar 2018)
 
 ## Volunteering
-- Computational Volunteer at BOINC, Folding@home, World Community Grid (Sep 2019 - Present)
+- Computational Volunteer at [BOINC](https://boinc.berkeley.edu), [Folding@home](https://foldingathome.org), [World Community Grid](https://worldcommunitygrid.org) (Sep 2019 - Present)
 - Content Moderator at [AUEB Venus Forum](https://venus.cs.aueb.gr) (Nov 2018 - Nov 2021)
 - Tutor at [AUEB Volunteers](https://aueb.gr/volunteers) (Jun 2018 - Jun 2019)
 - Backstage Support at [TEDxAUEB](https://tedxaueb.org/) (Mar 2018)
