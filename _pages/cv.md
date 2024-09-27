@@ -74,8 +74,8 @@ Grade: 18.1/20 (Excellent)<br>
 Nationwide University Entrance Examination Score: 16.102/20.000
 
 ## Skills
-- Multi Cloud Engineer (1x[GCP](https://cloud.google.com) Certified, Azure, AWS)
-- Extensive experience with Docker, Ansible, and Red Hat Enterprise Linux systems
+- Multi Cloud Engineer
+- Extensive experience with Docker, Ansible, and Linux systems
 
 ## Certifications & Languages
 - IELTS - Overall Band Score: 7.5/9 (Feb 2023)
@@ -95,13 +95,13 @@ Nationwide University Entrance Examination Score: 16.102/20.000
 
 ## Volunteering
 - Computational Volunteer at BOINC, Folding@home, World Community Grid (Sep 2019 - Present)
-- Content Moderator at AUEB Venus Forum (Nov 2018 - Nov 2021)
-- Tutor at AUEB Volunteers (Jun 2018 - Jun 2019)
-- Backstage Support at TEDxAUEB (Mar 2018)
-- Team's Representative & WordPress Developer at AUEB Drama Club (May 2017 - Present)
+- Content Moderator at [AUEB Venus Forum](https://venus.cs.aueb.gr) (Nov 2018 - Nov 2021)
+- Tutor at [AUEB Volunteers](https://aueb.gr/volunteers) (Jun 2018 - Jun 2019)
+- Backstage Support at [TEDxAUEB](https://tedxaueb.org/) (Mar 2018)
+- Team's Representative & WordPress Developer at [AUEB Drama Club](https://aueb.gr/en/content/drama-club) (May 2017 - Present)
 
 ## Honors & awards
-- 2nd Place at Apps4Athens Hackathon (Mar 2024)
+- 2nd Place at [Apps4Athens Hackathon](https://apps4athens.gr/en) (Mar 2024)
 
 [ARcheos](https://geosquadai.github.io/archeos) is an innovative AR/AI application that offers users a unique journey through Athens' rich philosophical heritage. In a fiercely competitive field of 200 contestants, we secured 2nd place at the esteemed Apps4Athens hackathon, a testament to the app’s ingenuity and the team's hard work.
 
