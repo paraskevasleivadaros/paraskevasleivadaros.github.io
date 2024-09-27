@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-# ☁️ Cloud Operations Administrator I [@DigitalOcean](https://digitalocean.com) 🐬 | BSc in Computer Science [@AUEB](https://aueb.gr) | 1x[GCP](https://cloud.google.com) Certified
+ | 🐬 Cloud Operations Administrator I @ DigitalOcean |  2xAWS, 1xGCP
+# 🎓 MSc in Data Science [@UVA](https://uva.nl/en) | 🐬 Cloud Operations Administrator I [@DigitalOcean](https://digitalocean.com) | ☁️ 2x[AWS](https://credly.com/badges/c67cb517-dddb-4069-8b71-b4be0574b59b), 1x[GCP](https://credly.com/badges/acea46d5-e52f-4264-a049-cbda5e89f66c)
 Amsterdam, North Holland, Netherlands
 
 [![](https://img.shields.io/badge/leivadaros.dev-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://leivadaros.dev) [![](https://img.shields.io/badge/paraskevasleivadaros-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paraskevasleivadaros) [![](https://img.shields.io/badge/paraskevasleivadaros@gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paraskevasleivadaros@gmail.com)
@@ -103,6 +103,6 @@ Nationwide University Entrance Examination Score: 16.102/20.000
 ## Honors & awards
 - 2nd Place at Apps4Athens Hackathon (Mar 2024)
 
-ARcheos is an innovative AR/AI application that offers users a unique journey through Athens' rich philosophical heritage. In a fiercely competitive field of 200 contestants, we secured 2nd place at the esteemed Apps4Athens hackathon, a testament to the app’s ingenuity and the team's hard work.
+[ARcheos](https://geosquadai.github.io/archeos) is an innovative AR/AI application that offers users a unique journey through Athens' rich philosophical heritage. In a fiercely competitive field of 200 contestants, we secured 2nd place at the esteemed Apps4Athens hackathon, a testament to the app’s ingenuity and the team's hard work.
 
 Designed to bring history to life, ARcheos immerses users in the ancient streets of Athens, where they can engage in meaningful, AI-enhanced conversations with legendary figures such as Socrates and Aristotle. This app not only highlights Athens' historical significance but also showcases the potential of combining advanced technology with cultural education, offering a new way to experience and learn from the past.
