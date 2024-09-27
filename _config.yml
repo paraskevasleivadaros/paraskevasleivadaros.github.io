@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "paraskevasleivadaros.github.io"
 title_separator          : "-"
 name                     : &name "Paraskevas Leivadaros"
-description              : &description "☁️ Cloud Operations Administrator I @ DigitalOcean 🐬 | BSc in Computer Science @ AUEB | 1xGCP Certified"
+description              : &description "🎓 MSc in Data Science @ UVA | 🐬 Cloud Operations Administrator I @ DigitalOcean | ☁️ 2xAWS, 1xGCP"
 url                      : "https://paraskevasleivadaros.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "paraskevasleivadaros/paraskevasleivadaros.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Paraskevas Leivadaros"
   avatar           : "profile.png"
-  bio              : "☁️ Cloud Operations Administrator I @ DigitalOcean 🐬 | BSc in Computer Science @ AUEB | 1xGCP Certified"
+  bio              : "🎓 MSc in Data Science @ UVA | 🐬 Cloud Operations Administrator I @ DigitalOcean | ☁️ 2xAWS, 1xGCP"
   location         : "Amsterdam, Netherlands"
   employer         : "DigitalOcean"
   pubmed           : 
