@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
- | 🐬 Cloud Operations Administrator I @ DigitalOcean |  2xAWS, 1xGCP
+
 # 🎓 MSc in Data Science [@UVA](https://uva.nl/en) | 🐬 Cloud Operations Administrator I [@DigitalOcean](https://digitalocean.com) | ☁️ 2x[AWS](https://credly.com/badges/c67cb517-dddb-4069-8b71-b4be0574b59b), 1x[GCP](https://credly.com/badges/acea46d5-e52f-4264-a049-cbda5e89f66c)
 Amsterdam, North Holland, Netherlands
 
