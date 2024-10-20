@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# 🎓 MSc in Data Science [@UVA](https://uva.nl/en) | 🐬 Cloud Operations Administrator I [@DigitalOcean](https://digitalocean.com) | ☁️ 2x[AWS](https://credly.com/badges/c67cb517-dddb-4069-8b71-b4be0574b59b), 1x[GCP](https://credly.com/badges/acea46d5-e52f-4264-a049-cbda5e89f66c)
+# 🎓 MSc Data Science [@UVA](https://uva.nl/en) | 🐬 InfraOps Engineer [@DigitalOcean](https://digitalocean.com) | ☁️ 2x[AWS](https://credly.com/badges/c67cb517-dddb-4069-8b71-b4be0574b59b), 1x[GCP](https://credly.com/badges/acea46d5-e52f-4264-a049-cbda5e89f66c)
 Amsterdam, North Holland, Netherlands
 
 [![](https://img.shields.io/badge/leivadaros.dev-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://leivadaros.dev) [![](https://img.shields.io/badge/paraskevasleivadaros-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paraskevasleivadaros) [![](https://img.shields.io/badge/paraskevasleivadaros@gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paraskevasleivadaros@gmail.com)
