@@ -61,16 +61,27 @@ At the AUEB Computer Science Laboratories, I was responsible for both systems mo
 The mission of the AUEB CSLab is to support the Department's educational work and in particular its specialized needs that cannot be effectively met by the Computer Center. It covers exclusively the needs of the Department of Informatics, where tutorials and course labs take place. Software infrastructure (programming environments, databases, network simulators) enables tasks and studies to be performed on different subjects depending on the needs of each course. In this context, the laboratory participates in MSDNAA (Microsoft Software Developers Network Academic Alliance), and also supports the development of applications using Open Source Software such as PHP, MySQL.
 
 ## Academic Background
+### MSc in Data Science [@UVA](https://uva.nl)  
+Sep 2024 - Aug 2025
+
+60 ECTS (1-year degree)
+
 ### BSc in Computer Science [@AUEB](https://aueb.gr)  
-Sep 2015 - Jan 2021<br>
-Grade: 6.54/10 (Very Good)<br>
+Sep 2015 - Jan 2021
+
+240 ECTS (4-year degree)
+
+Grade: 6.54/10 (Very Good)
+
 Streams of Studies:
 - Databases and Knowledge Management
 - Operations Research and Economics of Information Technology
 
 ### Apolytirion of Secondary Education @ Nea Penteli General Lyceum
-Sep 2012 - May 2015<br>
-Grade: 18.1/20 (Excellent)<br>
+Sep 2012 - May 2015
+
+Grade: 18.1/20 (Excellent)
+
 Nationwide University Entrance Examination Score: 16.102/20.000
 
 ## Skills
@@ -82,7 +93,7 @@ Nationwide University Entrance Examination Score: 16.102/20.000
 - English - Full professional proficiency (ECPE C2)
 - French - Limited working proficiency (DELF B2)
 - Greek - Native
-- Completed over 40 Computer Science related courses (details on [LinkedIn](https://linkedin.com/in/paraskevasleivadaros/details/certifications))
+- Completed over 50 Computer Science related courses (details on [LinkedIn](https://linkedin.com/in/paraskevasleivadaros/details/certifications))
 
 ## Conferences & Workshops
 - [AI Hackathon Greece](https://hackathongreece.ai) (16-18 Feb 2024)
