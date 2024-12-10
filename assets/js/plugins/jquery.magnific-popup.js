@@ -347,7 +347,14 @@ MagnificPopup.prototype = {
 		$('html').css(windowStyles);
 
 		// add everything to DOM
-		mfp.bgOverlay.add(mfp.wrap).prependTo( mfp.st.prependTo || _body );
+		var prependTarget = _body;
+		if (mfp.st.prependTo) {
+			prependTarget = $(document).find(mfp.st.prependTo);
+			if (prependTarget.length === 0) {
+				prependTarget = _body;
+			}
+		}
+		mfp.bgOverlay.add(mfp.wrap).prependTo(prependTarget);
 
 		// Save last focused element
 		mfp._lastFocusedEl = document.activeElement;
