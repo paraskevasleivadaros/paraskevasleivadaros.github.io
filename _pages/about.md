@@ -10,8 +10,7 @@ redirect_from:
 
 Building a better world 🌍 through open-source contributions 💻, one pull request at a time 🚀
 
-## Favorite Tools / Languages
-[![Ansible](https://skillicons.dev/icons?i=ansible)](https://ansible.com/)
+## Favorite Tools
 [![GCP](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com/)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://linux.org/)
 [![Python](https://skillicons.dev/icons?i=py)](https://python.org/)
