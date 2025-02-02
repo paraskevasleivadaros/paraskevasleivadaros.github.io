@@ -8,7 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "paraskevasleivadaros.github.io"
+site_theme               : "default"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -148,7 +149,7 @@ social:
 analytics:
   provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
-    tracking_id          : "G-JQB63XYR4G"
+    tracking_id          :
 
 
 # Reading Files
