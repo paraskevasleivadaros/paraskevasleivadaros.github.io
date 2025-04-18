@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Building a better world 🌍 through open-source contributions 💻, one pull request at a time 🚀
+☁️ Keeping the cloud up and running
 
 ## Favorite Tools
 [![GCP](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com/)
