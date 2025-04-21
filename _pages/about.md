@@ -11,9 +11,10 @@ redirect_from:
 ☁️ Keeping the cloud up and running
 
 ## Favorite Tools
-[![GCP](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com/)
+[![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://linux.org/)
 [![Python](https://skillicons.dev/icons?i=py)](https://python.org/)
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 
 ## Posts
 {% include base_path %}
