@@ -9,7 +9,7 @@ tags:
   - ransomware
   - logging
 ---
-![dall-e-unveiling-the-hidden-dangers-of-cloud-security](https://github.com/paraskevasleivadaros/paraskevasleivadaros.github.io/assets/16403754/ea6bab26-326e-4dc5-a477-10254be9dfb4)
+![dall-e-unveiling-the-hidden-dangers-of-cloud-security](/images/google-cloud-threat-horizons-h1-2024-security-insights.png)
 
 In the rapidly evolving cyber world, the first half of 2024 has highlighted crucial vulnerabilities within cloud configurations. **Cryptomining**, leveraging weak cloud setups, remains a dominant threat, underscoring the urgent need for robust security measures. This period has also seen a rise in **ransomware attacks and data theft**, challenging organizations to reinforce their defenses to safeguard their cloud environments.
 
