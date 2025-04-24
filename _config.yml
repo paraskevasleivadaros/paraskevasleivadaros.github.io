@@ -123,11 +123,11 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification : "pTTMOk7UnUTylvPg2-UtWDBjIztGBFfoZQCCQ9paKes"
+google_site_verification : 
+<meta name="google-site-verification" content="Qvb5nElKnWeJ3EMTBlokDZpPGlKkVALMwjXI5alpWpQ" />
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
-google-site-verification="pTTMOk7UnUTylvPg2-UtWDBjIztGBFfoZQCCQ9paKes"
 
 # Social Sharing
 twitter:
