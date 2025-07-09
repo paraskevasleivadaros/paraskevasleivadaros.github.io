@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# 🦈 CloudOps Engineer [@DigitalOcean](https://digitalocean.com) | 🎓 MSc Data Science [@UvA](https://uva.nl/en) | ☁️ 2x[AWS](https://credly.com/badges/c67cb517-dddb-4069-8b71-b4be0574b59b), 1x[GCP](https://credly.com/badges/acea46d5-e52f-4264-a049-cbda5e89f66c) | BSc Computer Science [@AUEB](https://aueb.gr) 
+# 🦈 CloudOps Engineer [@DigitalOcean](https://digitalocean.com) | 🎓 MSc Data Science [@UvA](https://uva.nl/en) | ☁️ 2x[AWS](https://credly.com/badges/c67cb517-dddb-4069-8b71-b4be0574b59b), 2x[GCP](https://credly.com/badges/acea46d5-e52f-4264-a049-cbda5e89f66c) | BSc Computer Science [@AUEB](https://aueb.gr) 
 Amsterdam, North Holland, Netherlands
 
 [![](https://img.shields.io/badge/paraskevasleivadaros-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paraskevasleivadaros) [![](https://img.shields.io/badge/paraskevasleivadaros@gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paraskevasleivadaros@gmail.com) [![](https://img.shields.io/badge/-paraskevasleivadaros.github.io-24292F?style=for-the-badge&logo=githubpages&logoColor=white)](https://paraskevasleivadaros.github.io)
@@ -89,11 +89,10 @@ Nationwide University Entrance Examination Score: 16.102/20.000
 - Extensive experience with Docker, Ansible, and Linux systems
 
 ## Certifications & Languages
-- IELTS - Overall Band Score: 7.5/9 (Feb 2023)
 - English - Full professional proficiency (ECPE C2)
+  - IELTS - Overall Band Score: 7.5/9 (Feb 2023)
 - French - Limited working proficiency (DELF B2)
 - Greek - Native
-- Completed over 50 Computer Science related courses (details on [LinkedIn](https://linkedin.com/in/paraskevasleivadaros/details/certifications))
 
 ## Conferences & Workshops
 - [AI Hackathon Greece](https://hackathongreece.ai) (16-18 Feb 2024)
