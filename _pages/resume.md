@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# 🦈 CloudOps Engineer [@DigitalOcean](https://digitalocean.com) | 🎓 MSc Data Science [@UvA](https://uva.nl/en) | ☁️ 2x[AWS](https://credly.com/badges/c67cb517-dddb-4069-8b71-b4be0574b59b), 2x[GCP](https://credly.com/badges/acea46d5-e52f-4264-a049-cbda5e89f66c) | BSc Computer Science [@AUEB](https://aueb.gr) 
+# 🦈 CloudOps Engineer [@DigitalOcean](https://digitalocean.com) | 🎓 MSc Data Science [@UvA](https://uva.nl/en) | BSc Computer Science [@AUEB](https://aueb.gr/en) | ☁️ 2x[AWS](https://credly.com/badges/c67cb517-dddb-4069-8b71-b4be0574b59b), 2x[GCP](https://credly.com/badges/acea46d5-e52f-4264-a049-cbda5e89f66c)
 Amsterdam, North Holland, Netherlands
 
 [![](https://img.shields.io/badge/paraskevasleivadaros-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paraskevasleivadaros) [![](https://img.shields.io/badge/paraskevasleivadaros@gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paraskevasleivadaros@gmail.com) [![](https://img.shields.io/badge/-paraskevasleivadaros.github.io-24292F?style=for-the-badge&logo=githubpages&logoColor=white)](https://paraskevasleivadaros.github.io)
@@ -20,7 +20,7 @@ May 2024 - Present
 
 I ensure the smooth operation of our cloud infrastructure by monitoring and promptly responding to all cloud health issues that could impact customer experiences, both internal and external. Reporting to the Manager of Cloud Operations, I collaborate with teams across the organization to research and troubleshoot issues, from single droplets to cloud-wide disturbances. My day-to-day tasks include ensuring maximum uptime for DigitalOcean’s global infrastructure, automating processes, developing tools to enhance operational efficiency, and coordinating with various teams to address operational challenges and improve the platform with minimal user impact.
 
-### Implementation and Support System Engineer [@Intracom Telecom](https://intracom-telecom.com)
+### System Engineer [@Intracom Telecom](https://intracom-telecom.com)
 Nov 2021 - Apr 2024
 
 I specialize in the implementation and technical support of telecommunication services for both Greek and international telecom organizations. These systems are critical for serving millions of users. My role involves developing and maintaining applications for corporate mobile telephony clients, providing me with a comprehensive understanding of the complexities and needs of large-scale telecommunication networks. 
@@ -85,33 +85,32 @@ Grade: 18.1/20 (Excellent)
 Nationwide University Entrance Examination Score: 16.102/20.000
 
 ## Skills
-- Multi Cloud Engineer
-- Extensive experience with Docker, Ansible, and Linux systems
+- Multi Cloud Engineer (2xAWS, 2xGCP), Linux and Python
 
 ## Certifications & Languages
-- English - Full professional proficiency (ECPE C2)
-  - IELTS - Overall Band Score: 7.5/9 (Feb 2023)
+- English - Full professional proficiency (ECPE C2, IELTS Academic C1)
 - French - Limited working proficiency (DELF B2)
 - Greek - Native
 
 ## Conferences & Workshops
-- [AI Hackathon Greece](https://hackathongreece.ai) (16-18 Feb 2024)
+- [AI Hackathon Greece](https://hackathongreece.ai) (16-18 February 2024)
   - [Review Radar Data Platform](https://github.com/Review-Radar-Data-Platform)
-- [Google DevFest Athens 2023](https://gdg.community.dev/events/details/google-gdg-athens-presents-devfest-2023-athens) (16 Dec 2023)
+- [Google DevFest Athens 2023](https://gdg.community.dev/events/details/google-gdg-athens-presents-devfest-2023-athens) (16 December 2023)
   - Data Science and Machine Learning for Weather and Climate Workshop
 - Athens [InfoLaw](https://infolaw.gr) Conference: Law, Internet and Social Media (03 May 2019)
   - Private Data Workshop
-- [TEDxAUEB](https://tedxaueb.org): arctos (17 Mar 2018)
+- [TEDxAUEB](https://tedxaueb.org): arctos (17 March 2018)
 
 ## Volunteering
-- Computational Volunteer at [BOINC](https://boinc.berkeley.edu), [Folding@home](https://foldingathome.org), [World Community Grid](https://worldcommunitygrid.org) (Sep 2019 - Present)
-- Content Moderator at [AUEB Venus Forum](https://venus.cs.aueb.gr) (Nov 2018 - Nov 2021)
-- Tutor at [AUEB Volunteers](https://aueb.gr/volunteers) (Jun 2018 - Jun 2019)
-- Backstage Support at [TEDxAUEB](https://tedxaueb.org/) (Mar 2018)
-- Team's Representative & WordPress Developer at [AUEB Drama Club](https://aueb.gr/en/content/drama-club) (May 2017 - Present)
+- Junior Software Engineer at [Beyond Orbit](https://beyond-orbit.org) (June 2025 - Present)
+- Team's Representative & Web Developer at [AUEB Drama Club](https://theatrikiopa.vercel.app/) (May 2017 - Present)
+- Computational Volunteer at [BOINC](https://boinc.berkeley.edu), [Folding@home](https://foldingathome.org), [World Community Grid](https://worldcommunitygrid.org) (September 2019 - May 2024)
+- Content Moderator at [AUEB Venus Forum](https://venus.cs.aueb.gr) (November 2018 - November 2021)
+- Tutor at [AUEB Volunteers](https://aueb.gr/volunteers) (June 2018 - June 2019)
+- Backstage Support at [TEDxAUEB](https://tedxaueb.org) (March 2018)
 
 ## Honors & awards
-- 2nd Place at [Apps4Athens Hackathon](https://apps4athens.gr/en) (Mar 2024)
+- 2nd Place at [Apps4Athens Hackathon](https://apps4athens.gr/en) (March 2024)
 
 [ARcheos](https://geosquadai.github.io/archeos) is an innovative AR/AI application that offers users a unique journey through Athens' rich philosophical heritage. In a fiercely competitive field of 200 contestants, we secured 2nd place at the esteemed Apps4Athens hackathon, a testament to the app’s ingenuity and the team's hard work.
 
