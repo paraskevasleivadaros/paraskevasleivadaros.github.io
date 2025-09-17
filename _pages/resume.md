@@ -12,7 +12,7 @@ redirect_from:
 # 🦈 CloudOps Engineer [@DigitalOcean](https://digitalocean.com) | 🎓 MSc Data Science [@UvA](https://uva.nl/en) | BSc Computer Science [@AUEB](https://aueb.gr/en) | ☁️ 2x[AWS](https://credly.com/badges/c67cb517-dddb-4069-8b71-b4be0574b59b), 2x[GCP](https://credly.com/badges/acea46d5-e52f-4264-a049-cbda5e89f66c)
 Amsterdam, North Holland, Netherlands
 
-[![](https://img.shields.io/badge/paraskevasleivadaros-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paraskevasleivadaros) [![](https://img.shields.io/badge/paraskevasleivadaros@gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paraskevasleivadaros@gmail.com) [![](https://img.shields.io/badge/-paraskevasleivadaros.github.io-24292F?style=for-the-badge&logo=githubpages&logoColor=white)](https://paraskevasleivadaros.github.io)
+[![](https://img.shields.io/badge/paraskevasleivadaros-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paraskevasleivadaros) [![](https://img.shields.io/badge/paraskevasleivadaros@gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paraskevasleivadaros@gmail.com) <!--[![](https://img.shields.io/badge/-paraskevasleivadaros.github.io-24292F?style=for-the-badge&logo=githubpages&logoColor=white)](https://paraskevasleivadaros.github.io)-->
 
 ## Professional Experience
 ### Cloud Operations Administrator I [@DigitalOcean](https://digitalocean.com)
