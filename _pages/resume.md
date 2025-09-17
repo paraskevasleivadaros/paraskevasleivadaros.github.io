@@ -95,6 +95,7 @@ Nationwide University Entrance Examination Score: 16.102/20.000
 ☁ [Google Cloud Certified Generative AI Leader](https://credly.com/badges/e6117947-0c97-4b35-b16b-cfa746b2935e) (July 2025 - July 2028)
 
 ## Projects
+🚧 Section under construction
 
 ## Volunteering
 - Junior Software Engineer at [Beyond Orbit](https://beyond-orbit.org) (June 2025 - Present)
@@ -120,6 +121,7 @@ Designed to bring history to life, ARcheos immerses users in the ancient streets
 - Greek - Native
 
 ## Organizations
+🚧 Section under construction
 
 ## Conferences & Workshops
 - [AI Hackathon Greece](https://hackathongreece.ai) (16-18 February 2024)
