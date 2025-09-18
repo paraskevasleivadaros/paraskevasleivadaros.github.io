@@ -89,9 +89,9 @@ Grade: 18.1/20 (Excellent)
 Nationwide University Entrance Examination Score: 16.102/20.000
 
 ## Licenses & Certifications
-☁ [AWS Certified AI Practitioner](https://credly.com/badges/c67cb517-dddb-4069-8b71-b4be0574b59b) (August 2024 - August 2027)
-☁ [AWS Certified Cloud Practitioner](https://credly.com/badges/d5a0b31b-c9ba-4d65-a709-042c93862b5f) (August 2024 - August 2027)
-☁ [Google Cloud Certified Cloud Digital Leader](https://credly.com/badges/acea46d5-e52f-4264-a049-cbda5e89f66c) (April 2023 - February 2027)
+☁ [AWS Certified AI Practitioner](https://credly.com/badges/c67cb517-dddb-4069-8b71-b4be0574b59b) (August 2024 - August 2027)  
+☁ [AWS Certified Cloud Practitioner](https://credly.com/badges/d5a0b31b-c9ba-4d65-a709-042c93862b5f) (August 2024 - August 2027)  
+☁ [Google Cloud Certified Cloud Digital Leader](https://credly.com/badges/acea46d5-e52f-4264-a049-cbda5e89f66c) (April 2023 - February 2027)  
 ☁ [Google Cloud Certified Generative AI Leader](https://credly.com/badges/e6117947-0c97-4b35-b16b-cfa746b2935e) (July 2025 - July 2028)
 
 ## Projects
