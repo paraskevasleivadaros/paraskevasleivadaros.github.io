@@ -37,7 +37,7 @@ I was involved in several ServiceWeaver™ microservices such as Bulk-SMS, Balan
 My technical expertise spanned numerous tools and technologies:
 - Git, GitLab CI/CD
 - Containerization: Docker
-- Programming: Bash, Java, Python
+- Programming: Bash, Python
 - Infrastructure Automation: Ansible
 - Operating Systems: Linux, especially Red Hat Enterprise Linux
 
