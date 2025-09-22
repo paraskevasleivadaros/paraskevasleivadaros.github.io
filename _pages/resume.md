@@ -95,15 +95,14 @@ Nationwide University Entrance Examination Score: 16.102/20.000
 ☁ [Google Cloud Certified Generative AI Leader](https://credly.com/badges/e6117947-0c97-4b35-b16b-cfa746b2935e) (July 2025 - July 2028)
 
 ## Projects
-🚧 Section under construction
-
-## Volunteering
-- Junior Software Engineer at [Beyond Orbit](https://beyond-orbit.org) (June 2025 - Present)
-- Team's Representative & Web Developer at [AUEB Drama Club](https://theatrikiopa.vercel.app/) (May 2017 - Present)
-- Computational Volunteer at [BOINC](https://boinc.berkeley.edu), [Folding@home](https://foldingathome.org), [World Community Grid](https://worldcommunitygrid.org) (September 2019 - May 2024)
-- Content Moderator at [AUEB Venus Forum](https://venus.cs.aueb.gr) (November 2018 - November 2021)
-- Tutor at [AUEB Volunteers](https://aueb.gr/volunteers) (June 2018 - June 2019)
-- Backstage Support at [TEDxAUEB](https://tedxaueb.org) (March 2018)
+[paraskevasleivadaros.github.io](https://paraskevasleivadaros.github.io) (March 2023 - Present)  
+[theatrikiopa.vercel.app](https://theatrikiopa.vercel.app) (May 2017 - Present)  
+[ARcheos AR/AI App](https://geosquadai.github.io/archeos) (March 2024 - December 2024)  
+[ethelontoume.gr](https://ethelontoume.gr) (November 2024)  
+[Review Radar Data Platform](https://github.com/Review-Radar-Data-Platform) (February 2024)  
+[suzayn.com](https://suzayn.com) (February 2023)  
+[goneis-4gymagparaskevis.gr](https://goneis-4gymagparaskevis.gr) (November 2022)  
+[leivadarou.com](https://leivadarou.com) (August 2021)
 
 ## Skills
 Multi Cloud Engineer (2xAWS, 2xGCP), Linux and Python
