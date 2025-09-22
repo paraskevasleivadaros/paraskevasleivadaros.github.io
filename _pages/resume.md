@@ -106,19 +106,19 @@ Nationwide University Entrance Examination Score: 16.102/20.000
 - Backstage Support at [TEDxAUEB](https://tedxaueb.org) (March 2018)
 
 ## Skills
-- Multi Cloud Engineer (2xAWS, 2xGCP), Linux and Python
+Multi Cloud Engineer (2xAWS, 2xGCP), Linux and Python
 
 ## Honors & awards
-- 2nd Place at [Apps4Athens Hackathon](https://apps4athens.gr/en) (March 2024)
+2nd Place at [Apps4Athens Hackathon](https://apps4athens.gr/en) (March 2024)
 
 [ARcheos](https://geosquadai.github.io/archeos) is an innovative AR/AI application that offers users a unique journey through Athens' rich philosophical heritage. In a fiercely competitive field of 200 contestants, we secured 2nd place at the esteemed Apps4Athens hackathon, a testament to the app’s ingenuity and the team's hard work.
 
 Designed to bring history to life, ARcheos immerses users in the ancient streets of Athens, where they can engage in meaningful, AI-enhanced conversations with legendary figures such as Socrates and Aristotle. This app not only highlights Athens' historical significance but also showcases the potential of combining advanced technology with cultural education, offering a new way to experience and learn from the past.
 
 ## Languages
-- English - Full professional proficiency (ECPE C2, IELTS Academic C1)
-- French - Limited working proficiency (DELF B2)
-- Greek - Native
+English - Full professional proficiency (ECPE C2, IELTS Academic C1)  
+French - Limited working proficiency (DELF B2)  
+Greek - Native
 
 ## Organizations
 🚧 Section under construction
