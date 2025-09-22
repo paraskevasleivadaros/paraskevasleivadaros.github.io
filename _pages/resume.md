@@ -121,7 +121,10 @@ French - Limited working proficiency (DELF B2)
 Greek - Native
 
 ## Organizations
-🚧 Section under construction
+UvA International Student Ambassadors (November 2024 - September 2025)  
+UvA Information Studies Education Committee (September 2024 - August 2025)  
+AUEB Drama Club (May 2017 - May 2023)  
+AUEB Venus Forum (Nov 2018 - Nov 2021)
 
 ## Conferences & Workshops
 - [AI Hackathon Greece](https://hackathongreece.ai) (16-18 February 2024)
