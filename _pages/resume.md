@@ -96,19 +96,19 @@ Nationwide University Entrance Examination Score: 16.102/20.000
 
 ## Projects
 [paraskevasleivadaros.github.io](https://paraskevasleivadaros.github.io) (March 2023 - Present)  
-  - A personal website built with React and Docusaurus where I share my thoughts, ideas, and experiences on computer science
+  - A personal website built with React and Docusaurus where I share my thoughts, ideas, and experiences on computer science  
 [theatrikiopa.vercel.app](https://theatrikiopa.vercel.app) (May 2017 - Present)
-  - A website built with React and Docusaurus to serve the needs of the AUEB Drama Club
+  - A website built with React and Docusaurus to serve the needs of the AUEB Drama Club  
 [ARcheos AR/AI App](https://geosquadai.github.io/archeos) (March 2024 - December 2024)  
-  - An innovative mobile application that combines artificial intelligence (AI), augmented reality (AR) with location awareness (VPS), and natural language understanding (NLU) with the richness of ancient philosophy, offering users an immersive and educational experience.
+  - An innovative mobile application that combines artificial intelligence (AI), augmented reality (AR) with location awareness (VPS), and natural language understanding (NLU) with the richness of ancient philosophy, offering users an immersive and educational experience  
 [ethelontoume.gr](https://ethelontoume.gr) (November 2024)
-  - A website built with React and Docusaurus to serve the needs of the Ethelontoume Organization
+  - A website built with React and Docusaurus to serve the needs of the Ethelontoume Organization  
 [Review Radar Data Platform](https://github.com/Review-Radar-Data-Platform) (February 2024)
-  - An innovative, open-source solution designed to aggregate, process, and analyze vast amounts of review data from various online platforms
+  - An innovative, open-source solution designed to aggregate, process, and analyze vast amounts of review data from various online platforms  
 [suzayn.com](https://suzayn.com) (February 2023)
-  - A website built on Google Sites to showcase the portfolio of a professional photographer
+  - A website built on Google Sites to showcase the portfolio of a professional photographer  
 [goneis-4gymagparaskevis.gr](https://goneis-4gymagparaskevis.gr) (November 2022)
-  - A website built on WordPress 6.8 hosted on an Ubuntu 22.04.4 LTS server on DigitalOcean to serve the needs of an association of parents
+  - A website built on WordPress 6.8 hosted on an Ubuntu 22.04.4 LTS server on DigitalOcean to serve the needs of an association of parents  
 [leivadarou.com](https://leivadarou.com) (August 2021)
   - A website built on Google Sites to showcase the portfolio of a lawyer
 
