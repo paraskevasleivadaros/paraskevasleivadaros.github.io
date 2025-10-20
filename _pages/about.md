@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-🙋‍♂️ Hi there, I am Paraskevas, a Cloud Operations Engineer at DigitalOcean from 🇬🇷 Athens currently based in 🇳🇱 Amsterdam!
+🙋‍♂️ Hi there, I'm Paraskevas, a CloudOps Engineer at DigitalOcean in 🇳🇱 Amsterdam!
 
 #### 📚 Education
 🎓 [MSc Data Science (Information Studies)](https://uva.nl/shared-content/programmas/en/masters/information-studies-data-science/data-science.html) at [University of Amsterdam](https://uva.nl/en)  
