@@ -141,10 +141,13 @@ AUEB Drama Club (May 2017 - May 2023)
 AUEB Venus Forum (Nov 2018 - Nov 2021)
 
 ## Conferences & Workshops
-- [AI Hackathon Greece](https://hackathongreece.ai) (16-18 February 2024)
+[AI Hackathon Greece](https://hackathongreece.ai) (16-18 February 2024)
   - [Review Radar Data Platform](https://github.com/Review-Radar-Data-Platform)
-- [Google DevFest Athens 2023](https://gdg.community.dev/events/details/google-gdg-athens-presents-devfest-2023-athens) (16 December 2023)
+
+[Google DevFest Athens 2023](https://gdg.community.dev/events/details/google-gdg-athens-presents-devfest-2023-athens) (16 December 2023)
   - Data Science and Machine Learning for Weather and Climate Workshop
-- Athens [InfoLaw](https://infolaw.gr) Conference: Law, Internet and Social Media (03 May 2019)
+
+Athens [InfoLaw](https://infolaw.gr) Conference: Law, Internet and Social Media (03 May 2019)
   - Private Data Workshop
-- [TEDxAUEB](https://tedxaueb.org): arctos (17 March 2018)
+
+[TEDxAUEB](https://tedxaueb.org): arctos (17 March 2018)
