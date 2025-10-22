@@ -26,6 +26,5 @@ redirect_from:
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
 [![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://linux.org)
-[![Markdown](https://skillicons.dev/icons?i=md)](https://daringfireball.net/projects/markdown)
 [![Python](https://skillicons.dev/icons?i=py)](https://python.org)
 [![Visual Studio Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
