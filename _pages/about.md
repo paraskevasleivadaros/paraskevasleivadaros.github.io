@@ -22,6 +22,7 @@ redirect_from:
 
 #### 🛠️ Favorite Tools
 [![Bash](https://skillicons.dev/icons?i=bash)](https://gnu.org/software/bash)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
 [![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://linux.org)
