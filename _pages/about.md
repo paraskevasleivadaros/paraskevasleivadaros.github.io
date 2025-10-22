@@ -28,3 +28,8 @@ redirect_from:
 [![Linux](https://skillicons.dev/icons?i=linux)](https://linux.org)
 [![Python](https://skillicons.dev/icons?i=py)](https://python.org)
 [![Visual Studio Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
+
+#### ✨ Contact
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/paraskevasleivadaros)
+[![Mail](https://skillicons.dev/icons?i=gmail)](mailto:paraskevasleivadaros@gmail.com)
+[![X](https://skillicons.dev/icons?i=twitter)](https://x.com/parasleivadaros)
