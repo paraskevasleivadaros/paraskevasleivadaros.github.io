@@ -100,10 +100,6 @@ const config = {
                 label: 'LinkedIn',
                 href: 'https://linkedin.com/in/paraskevasleivadaros',
               },
-              {
-                label: 'X',
-                href: 'https://x.com/parasleivadaros',
-              },
             ],
           },
           {
