@@ -77,7 +77,6 @@ const config = {
             label: 'Resume',
             position: 'right',
           },
-          {to: '/blog', label: 'Blog', position: 'right'},
           // {
           //   href: 'https://github.com/facebook/docusaurus',
           //   label: 'GitHub',
@@ -112,10 +111,6 @@ const config = {
               {
                 label: 'GitHub',
                 href: 'https://github.com/paraskevasleivadaros',
-              },
-              {
-                label: 'Blog',
-                to: '/blog',
               },
             ],
           },
