@@ -47,15 +47,15 @@ npm run serve
 
 ## Deploy To GitHub Pages
 
-Deploy with Docusaurus:
+Deploy from `main` with GitHub Actions:
 
 ```bash
-GIT_USER=paraskevasleivadaros npm run deploy
+git push origin main
 ```
 
 Important GitHub Pages setting:
 
-- Repository Settings -> Pages -> Source must use `gh-pages` branch and `/ (root)`.
+- Repository Settings -> Pages -> Source should use `GitHub Actions`.
 
 ## Project Structure
 
