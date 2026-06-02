@@ -11,7 +11,7 @@ const config = {
   title: 'Paraskevas Leivadaros',
   tagline: 'Keeping the cloud running',
   url: 'https://paraskevasleivadaros.github.io',
-  baseUrl: '/docusaurus-2/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -19,7 +19,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'paraskevasleivadaros', // Usually your GitHub org/user name.
-  projectName: 'docusaurus-2', // Usually your repo name.
+  projectName: 'paraskevasleivadaros.github.io', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -73,7 +73,7 @@ const config = {
           // },
           //{to: '/projects', label: 'Projects', position: 'left'},
           {
-            href: 'https://paraskevasleivadaros.github.io/docusaurus-2/paraskevas-leivadaros-resume.pdf',
+            href: 'https://paraskevasleivadaros.github.io/paraskevas-leivadaros-resume.pdf',
             label: 'Resume',
             position: 'right',
           },

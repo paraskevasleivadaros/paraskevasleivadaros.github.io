@@ -4,7 +4,7 @@ This repository contains a personal website built with [Docusaurus](https://docu
 
 ## Live URL
 
-- Current project site: https://paraskevasleivadaros.github.io/docusaurus-2/
+- Live site: https://paraskevasleivadaros.github.io/
 
 ## What Is In This Site
 
@@ -67,5 +67,4 @@ Important GitHub Pages setting:
 
 ## Notes
 
-- This repository is configured as a project site (`/docusaurus-2/`).
-- If you want this to be your root domain (`paraskevasleivadaros.github.io`), move the site to a repository named `paraskevasleivadaros.github.io` and set `baseUrl: '/'`.
+- This repository is configured as a GitHub Pages user site served from the root domain (`/`).
