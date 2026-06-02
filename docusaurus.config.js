@@ -10,16 +10,16 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Paraskevas Leivadaros',
   tagline: 'Keeping the cloud running',
-  url: 'https://paraskevasleivadaros.vercel.app',
-  baseUrl: '/',
+  url: 'https://paraskevasleivadaros.github.io',
+  baseUrl: '/docusaurus-2/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'paraskevasleivadaros', // Usually your GitHub org/user name.
+  projectName: 'docusaurus-2', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -72,7 +72,11 @@ const config = {
           //   label: 'Tutorial',
           // },
           //{to: '/projects', label: 'Projects', position: 'left'},
-          {href: 'https://paraskevasleivadaros.vercel.app/paraskevas-leivadaros-resume.pdf', label: 'Resume', position: 'right'},
+          {
+            href: 'https://paraskevasleivadaros.github.io/docusaurus-2/paraskevas-leivadaros-resume.pdf',
+            label: 'Resume',
+            position: 'right',
+          },
           {to: '/blog', label: 'Blog', position: 'right'},
           // {
           //   href: 'https://github.com/facebook/docusaurus',
