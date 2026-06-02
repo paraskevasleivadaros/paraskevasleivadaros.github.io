@@ -24,25 +24,25 @@ This repository contains a personal website built with [Docusaurus](https://docu
 Install dependencies:
 
 ```bash
-npm install
+yarn install
 ```
 
 Start local dev server:
 
 ```bash
-npm start
+yarn start
 ```
 
 Create production build:
 
 ```bash
-npm run build
+yarn build
 ```
 
 Serve production build locally:
 
 ```bash
-npm run serve
+yarn serve
 ```
 
 ## Deploy To GitHub Pages

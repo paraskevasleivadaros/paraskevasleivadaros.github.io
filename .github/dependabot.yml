@@ -9,14 +9,38 @@ updates:
   - package-ecosystem: "npm"
     directory: "/"
     schedule:
-      interval: "yearly"
+      interval: "weekly"
+      day: "monday"
     open-pull-requests-limit: 10
-    allow:
-      - dependency-type: "all"
+    target-branch: "main"
+    labels:
+      - "dependencies"
+    commit-message:
+      prefix: "deps"
+    groups:
+      docusaurus:
+        patterns:
+          - "@docusaurus/*"
+      react:
+        patterns:
+          - "react"
+          - "react-dom"
+          - "@mdx-js/*"
 
   # GitHub Actions updates
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
-      interval: "yearly"
+      interval: "weekly"
+      day: "monday"
     open-pull-requests-limit: 10
+    target-branch: "main"
+    labels:
+      - "dependencies"
+      - "github-actions"
+    commit-message:
+      prefix: "ci"
+    groups:
+      github-actions:
+        patterns:
+          - "*"
